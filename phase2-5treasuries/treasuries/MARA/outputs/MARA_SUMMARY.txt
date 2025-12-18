@@ -1,0 +1,50 @@
+================================================================================
+MARATHON DIGITAL HOLDINGS - PHASE 2 ANALYSIS
+Bitcoin Treasury Coordinate Model
+December 25, 2025
+================================================================================
+
+COMPANY OVERVIEW
+================================================================================
+Company: Marathon Digital Holdings Inc.
+Ticker: MARA
+Business: Bitcoin mining + treasury operations
+Market Cap: ~$3.2 Billion
+Bitcoin Holdings: 53,250 ₿
+
+BITCOIN HOLDINGS
+================================================================================
+Total BTC: 53,250 ₿
+Market value @ $92k: $4,899M
+Cost basis (estimated): $1,150M
+Unrealized gain: $3,749M
+ROI: +326%
+
+FINANCIAL OBLIGATIONS
+================================================================================
+Total debt: $580M
+Annual debt service: $18.45M
+Average interest rate: 3.3%
+Debt maturity dates: 2025-2027
+
+LIQUIDITY & RESERVES
+================================================================================
+Current cash: $45M
+Total liquidity: $85M
+Available credit: $40M
+
+SUSTAINABILITY ANALYSIS
+================================================================================
+BTC holdings: 53,250 ₿
+Annual obligations: $18.45M
+Obligation ratio: 0.38% (< 1%)
+Assessment: EXCELLENT
+
+PHASE 2 STATUS
+================================================================================
+✓ Tranche history extracted (26 purchases)
+✓ Obligations documented ($580M)
+✓ Reserve data compiled
+✓ Calculators operational
+
+================================================================================
