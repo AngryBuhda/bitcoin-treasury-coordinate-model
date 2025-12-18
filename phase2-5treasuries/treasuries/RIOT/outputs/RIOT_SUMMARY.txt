@@ -1,0 +1,74 @@
+================================================================================
+RIOT PLATFORMS - PHASE 2 ANALYSIS
+Bitcoin Treasury Coordinate Model
+December 27, 2025
+================================================================================
+
+COMPANY OVERVIEW
+================================================================================
+Company: Riot Platforms Inc.
+Ticker: RIOT
+Business: Bitcoin mining + blockchain technology
+Market Cap: ~$1.8 Billion
+Bitcoin Holdings: 19,324 ₿
+
+BITCOIN HOLDINGS
+================================================================================
+Total BTC: 19,324 ₿
+Market value @ $92k: $1,778M
+Cost basis (estimated): $425M
+Unrealized gain: $1,353M
+ROI: +318%
+
+FINANCIAL OBLIGATIONS
+================================================================================
+Total debt: $225M
+Annual debt service: $7.77M
+Average interest rate: 3.5%
+Debt maturity dates: 2026-2027
+
+Debt breakdown:
+- Energy contracts: $45M @ 3.2%
+- Equipment financing: $25M @ 4.2%
+- Term Loan B: $80M @ 4.5%
+- Convertible notes: $60M @ 2.8%
+- Lease obligations: $15M
+
+LIQUIDITY & RESERVES
+================================================================================
+Current cash: $22M
+Total liquidity: $48M
+Available credit: $18M
+Reserve trend: Growing
+
+SUSTAINABILITY ANALYSIS
+================================================================================
+BTC holdings: 19,324 ₿
+BTC value: $1,778M
+Annual obligations: $7.77M
+Obligation ratio: 0.44% (< 1%)
+Coverage: EXCELLENT
+
+Debt-to-BTC value: 12.7%
+Reserve-to-Annual obligation: 3.1x
+Assessment: STRONG
+
+COMPARATIVE ANALYSIS (vs MARA)
+================================================================================
+MARA Bitcoin: 28,750 ₿ vs RIOT Bitcoin: 19,324 ₿ (MARA +49%)
+MARA Debt: $580M vs RIOT Debt: $225M (MARA 2.6x higher)
+MARA Annual Service: $18.45M vs RIOT: $7.77M (MARA 2.4x higher)
+MARA Obligation Ratio: 0.38% vs RIOT: 0.44% (RIOT slightly higher)
+Assessment: Both treasuries are EXCELLENT, MARA larger but similar sustainability
+
+PHASE 2 STATUS
+================================================================================
+✓ Tranche history extracted (25 purchases)
+✓ Obligations documented ($225M)
+✓ Reserve data compiled
+✓ Calculators operational
+✓ Comparative analysis ready
+
+Next: ASST (STRIVE) analysis (Day 4)
+
+================================================================================

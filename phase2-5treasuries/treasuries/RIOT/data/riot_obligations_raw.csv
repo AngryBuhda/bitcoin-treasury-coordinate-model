@@ -1,0 +1,7 @@
+Debt_Type,Principal_USD_Millions,Interest_Rate_Pct,Annual_Interest_Cost_USD_Millions,Maturity_Date,Issue_Date,Notes
+Energy Contract Obligations,45,3.2,1.44,2026-06-30,2021-09-01,Power purchase agreements
+Equipment Financing,25,4.2,1.05,2027-03-15,2022-03-15,Mining equipment loans
+Term Loan B,80,4.5,3.6,2027-12-31,2022-12-01,Senior secured term loan
+Convertible Notes,60,2.8,1.68,2026-09-15,2023-09-15,Convertible debt issuance
+Operating Lease Obligations,15,0.0,0.0,Ongoing,2024-01-01,Facility lease commitments
+Total Annual Obligations,225,Average: 3.5,7.77,Various,Various,Total debt service ~$7.8M/year
