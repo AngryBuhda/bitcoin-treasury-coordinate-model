@@ -1,0 +1,26 @@
+tier1_official:
+  strategy_com:
+    purchases: https://www.strategy.com/purchases
+    btc: https://www.strategy.com/btc
+    press: https://www.strategy.com/press
+    data: https://www.strategy.com/data
+  sec_edgar:
+    base_url: https://www.sec.gov/cgi-bin/browse-edgar
+    cik: 0001050446
+
+tier2_aggregators:
+  bitcointreasuries_net:
+    url: https://bitcointreasuries.net
+    refresh_rate: daily
+
+tier3_market_data:
+  stock_prices:
+    iex_cloud:
+      url: https://iexcloud.io
+    yahoo_finance:
+      url: https://finance.yahoo.com
+  btc_price:
+    bitcoin_com:
+      url: https://bitcoin.com
+    coinbase:
+      url: https://api.coinbase.com

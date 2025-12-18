@@ -1,0 +1,14 @@
+constants:
+  H_now: 928000
+  terminal_supply: 21000000
+  blocks_per_day: 144
+
+tolerances:
+  wabh: 0.01
+  ncp: 0.05
+  orsr: 0.1
+
+orsr_targets:
+  ideal_months: 24
+  minimum_months: 12
+  critical_threshold: 6
