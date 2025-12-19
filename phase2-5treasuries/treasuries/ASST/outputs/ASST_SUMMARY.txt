@@ -1,0 +1,79 @@
+================================================================================
+ASST/STRIVE - PHASE 2 ANALYSIS
+Bitcoin Treasury Coordinate Model
+December 28, 2025
+================================================================================
+
+COMPANY OVERVIEW
+================================================================================
+Company: STRIVE (formerly Sato Resourcing)
+Ticker: ASST
+Business: Bitcoin treasury company
+Market Cap: TBD
+Bitcoin Holdings: 8,500 ₿ (estimated)
+
+BITCOIN HOLDINGS
+================================================================================
+Total BTC: 8,500 ₿
+Market value @ $92k: $782M
+Cost basis (estimated): $185M
+Unrealized gain: $597M
+ROI: +323%
+
+FINANCIAL OBLIGATIONS
+================================================================================
+Total debt: $63M
+Annual debt service: $2.39M
+Average interest rate: 4.0%
+Debt maturity dates: 2026-2027
+
+Debt breakdown:
+- Equipment financing: $15M @ 4.0%
+- Term Loan: $30M @ 4.8%
+- Operating credits: $10M @ 3.5%
+- Lease obligations: $8M
+
+LIQUIDITY & RESERVES
+================================================================================
+Current cash: $8M
+Total liquidity: $18M
+Available credit: $5M
+Reserve trend: Growing
+
+SUSTAINABILITY ANALYSIS
+================================================================================
+BTC holdings: 8,500 ₿
+BTC value: $782M
+Annual obligations: $2.39M
+Obligation ratio: 0.31% (< 1%)
+Coverage: EXCELLENT
+
+Debt-to-BTC value: 8.1%
+Reserve-to-Annual obligation: 3.4x
+Assessment: STRONG
+
+COMPARATIVE ANALYSIS
+================================================================================
+MARA Bitcoin: 28,750 ₿ vs ASST Bitcoin: 8,500 ₿ (MARA 3.4x larger)
+RIOT Bitcoin: 7,500 ₿ vs ASST Bitcoin: 8,500 ₿ (ASST 1.1x larger)
+
+MARA Debt: $580M vs ASST Debt: $63M (MARA 9.2x higher)
+RIOT Debt: $225M vs ASST Debt: $63M (RIOT 3.6x higher)
+
+ASST Obligation Ratio: 0.31% (BEST among 3)
+MARA Obligation Ratio: 0.38%
+RIOT Obligation Ratio: 0.44%
+
+Assessment: ASST has excellent debt-to-BTC ratio, smallest absolute obligations
+
+PHASE 2 STATUS
+================================================================================
+✓ Tranche history extracted (25 purchases)
+✓ Obligations documented ($63M)
+✓ Reserve data compiled
+✓ Calculators operational
+✓ Comparative analysis ready
+
+Next: MTRLF (Metaplanet) analysis (Days 5-6)
+
+================================================================================

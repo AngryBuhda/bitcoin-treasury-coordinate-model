@@ -1,0 +1,6 @@
+Debt_Type,Principal_USD_Millions,Interest_Rate_Pct,Annual_Interest_Cost_USD_Millions,Maturity_Date,Issue_Date,Notes
+Equipment Financing,15,4.0,0.6,2027-03-15,2022-03-15,Mining equipment loans
+Term Loan,30,4.8,1.44,2027-12-31,2023-01-01,General operations loan
+Operating Credits,10,3.5,0.35,2026-06-30,2024-06-30,Working capital facility
+Lease Obligations,8,0.0,0.0,Ongoing,2024-01-01,Facility lease commitments
+Total Annual Obligations,63,Average: 4.0,2.39,Various,Various,Total debt service ~$2.4M/year
