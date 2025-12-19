@@ -1,0 +1,7 @@
+Debt_Type,Principal_USD_Millions,Interest_Rate_Pct,Annual_Interest_Cost_USD_Millions,Maturity_Date,Issue_Date,Notes
+Mining Lease Obligations,120,2.8,3.36,2027-06-30,2021-06-01,Equipment and facility leases
+Bank Loan JPY,85,3.0,2.55,2026-12-31,2022-12-01,Japanese bank financing
+Equipment Financing,95,3.5,3.325,2027-03-15,2022-03-15,Mining equipment
+Operating Credit Facility,60,3.2,1.92,2026-09-30,2023-09-30,Working capital facility
+Bond Issuance,50,2.5,1.25,2028-12-31,2023-12-15,Corporate bonds
+Total Annual Obligations,410,Average: 3.0,12.385,Various,Various,Total debt service ~$12.4M/year

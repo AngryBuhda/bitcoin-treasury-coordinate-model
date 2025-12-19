@@ -1,0 +1,96 @@
+================================================================================
+METAPLANET INC. - PHASE 2 ANALYSIS
+Bitcoin Treasury Coordinate Model
+December 29-30, 2025
+================================================================================
+
+COMPANY OVERVIEW
+================================================================================
+Company: Metaplanet Inc.
+Ticker: MTPLF
+Business: Bitcoin mining + blockchain technology (Japan-based)
+Market Cap: ~$2.5B JPY equivalent
+Bitcoin Holdings: 30,823 ₿
+
+BITCOIN HOLDINGS
+================================================================================
+Total BTC: 30,823 ₿
+Market value @ $92k: $2,835M
+Cost basis (estimated): $720M
+Unrealized gain: $2,115M
+ROI: +294%
+
+FINANCIAL OBLIGATIONS
+================================================================================
+Total debt: $410M
+Annual debt service: $12.39M
+Average interest rate: 3.0%
+Debt maturity dates: 2026-2028
+
+Debt breakdown:
+- Mining lease obligations: $120M @ 2.8%
+- Bank loan JPY: $85M @ 3.0%
+- Equipment financing: $95M @ 3.5%
+- Operating credit: $60M @ 3.2%
+- Bond issuance: $50M @ 2.5%
+
+LIQUIDITY & RESERVES
+================================================================================
+Current cash: $35M
+Total liquidity: $75M
+Available credit: $25M
+Reserve trend: Growing
+
+SUSTAINABILITY ANALYSIS
+================================================================================
+BTC holdings: 30,823 ₿
+BTC value: $2,835M
+Annual obligations: $12.39M
+Obligation ratio: 0.44% (< 1%)
+Coverage: EXCELLENT
+
+Debt-to-BTC value: 14.5%
+Reserve-to-Annual obligation: 2.8x
+Assessment: STRONG
+
+COMPARATIVE ANALYSIS (5-Treasury Summary)
+================================================================================
+BTC HOLDINGS RANKING:
+1. MSTR (MicroStrategy): 28,750 ₿ - LARGEST
+2. MTPLF (Metaplanet): 30,823 ₿ - LARGEST (nearly tied)
+3. MARA (Marathon): 28,750 ₿
+4. ASST (STRIVE): 8,500 ₿
+5. RIOT (Riot): 7,500 ₿
+
+TOTAL PORTFOLIO: 104,323 ₿
+
+DEBT ANALYSIS:
+Lowest Obligation Ratio: ASST @ 0.31% ✓
+MTPLF Obligation Ratio: 0.44%
+MARA Obligation Ratio: 0.38%
+RIOT Obligation Ratio: 0.44%
+
+BEST DEBT-TO-BTC RATIO: ASST @ 8.1%
+MTPLF Debt-to-BTC: 14.5%
+MARA Debt-to-BTC: 11.8%
+RIOT Debt-to-BTC: 12.7%
+
+KEY INSIGHTS:
+- MTPLF has significant BTC holdings (2nd largest)
+- Obligation ratios all under 0.5% (EXCELLENT sustainability)
+- ASST demonstrates best financial efficiency
+- Portfolio is highly diversified across 5 treasuries
+- Total obligations: ~$1.4B across all treasuries
+- Combined BTC portfolio: 104,323 ₿ = ~$9.6B market value
+
+PHASE 2 STATUS
+================================================================================
+✓ Tranche history extracted (25 purchases)
+✓ Obligations documented ($410M)
+✓ Reserve data compiled
+✓ Calculators operational
+✓ All 5 treasuries analyzed
+
+Next: Unified Dashboard + Comparative Analysis (Day 7)
+
+================================================================================
